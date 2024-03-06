@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# React Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React Quiz App is a project designed to enhance your understanding of React concepts such as useEffect, reducer, reduce function with switch case, dispatch, state management, and the usage of props. The app was developed while learning React from Jonas, who has been an invaluable source of guidance throughout the learning process.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+1. React Components: The app is structured using various React components to promote modularity and maintainability.
+2. Use of useEffect: Leveraging the power of useEffect for managing side effects and ensuring efficient handling of lifecycle events.
+3. State Management with Reducer: The app employs a reducer for effective state management, enabling a clear and predictable flow of data within the application.
+4. Switch Case and Dispatch: The use of switch case statements combined with dispatch ensures a structured and scalable approach to handling different actions within the app.
+5. Props Usage: Props are utilized to pass data between components, fostering a seamless flow of information throughout the application.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![react-quiz1](https://github.com/zangpodawa/react-quiz-app/assets/32727869/195bf922-283f-4949-90fd-fc34b673323c)
 
-### `npm test`
+![react-quiz2](https://github.com/zangpodawa/react-quiz-app/assets/32727869/d4406470-2f5d-44ed-8b90-2311e32dca6a)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![react-quiz3](https://github.com/zangpodawa/react-quiz-app/assets/32727869/52b737ba-6f6b-4dbd-b737-44a57e6b1555)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![react-quiz4](https://github.com/zangpodawa/react-quiz-app/assets/32727869/b4052b55-f03f-436d-b9ca-73469252ec9b)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
